@@ -1,0 +1,272 @@
+{
+    "english_10000": {
+        "sample_file": "english_10000_sample.csv",
+        "output_file": "english_10000_patterns.csv",
+        "language": "english",
+        "sample_size": 10000,
+        "pattern_seed": 113042,
+        "patterns_generated": 400,
+        "patterns_per_type_requested": 50,
+        "category_summary": {
+            "short": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "medium": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "long": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "very_long": {
+                "matching": 50,
+                "non_matching": 50
+            }
+        }
+    },
+    "english_1000": {
+        "sample_file": "english_1000_sample.csv",
+        "output_file": "english_1000_patterns.csv",
+        "language": "english",
+        "sample_size": 1000,
+        "pattern_seed": 104042,
+        "patterns_generated": 400,
+        "patterns_per_type_requested": 50,
+        "category_summary": {
+            "short": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "medium": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "long": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "very_long": {
+                "matching": 50,
+                "non_matching": 50
+            }
+        }
+    },
+    "english_25000": {
+        "sample_file": "english_25000_sample.csv",
+        "output_file": "english_25000_patterns.csv",
+        "language": "english",
+        "sample_size": 25000,
+        "pattern_seed": 128042,
+        "patterns_generated": 400,
+        "patterns_per_type_requested": 50,
+        "category_summary": {
+            "short": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "medium": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "long": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "very_long": {
+                "matching": 50,
+                "non_matching": 50
+            }
+        }
+    },
+    "english_5000": {
+        "sample_file": "english_5000_sample.csv",
+        "output_file": "english_5000_patterns.csv",
+        "language": "english",
+        "sample_size": 5000,
+        "pattern_seed": 108042,
+        "patterns_generated": 400,
+        "patterns_per_type_requested": 50,
+        "category_summary": {
+            "short": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "medium": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "long": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "very_long": {
+                "matching": 50,
+                "non_matching": 50
+            }
+        }
+    },
+    "kannada_10000": {
+        "sample_file": "kannada_10000_sample.csv",
+        "output_file": "kannada_10000_patterns.csv",
+        "language": "kannada",
+        "sample_size": 10000,
+        "pattern_seed": 112042,
+        "patterns_generated": 400,
+        "patterns_per_type_requested": 50,
+        "category_summary": {
+            "short": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "medium": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "long": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "very_long": {
+                "matching": 50,
+                "non_matching": 50
+            }
+        }
+    },
+    "kannada_1000": {
+        "sample_file": "kannada_1000_sample.csv",
+        "output_file": "kannada_1000_patterns.csv",
+        "language": "kannada",
+        "sample_size": 1000,
+        "pattern_seed": 103042,
+        "patterns_generated": 400,
+        "patterns_per_type_requested": 50,
+        "category_summary": {
+            "short": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "medium": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "long": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "very_long": {
+                "matching": 50,
+                "non_matching": 50
+            }
+        }
+    },
+    "kannada_25000": {
+        "sample_file": "kannada_25000_sample.csv",
+        "output_file": "kannada_25000_patterns.csv",
+        "language": "kannada",
+        "sample_size": 25000,
+        "pattern_seed": 127042,
+        "patterns_generated": 400,
+        "patterns_per_type_requested": 50,
+        "category_summary": {
+            "short": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "medium": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "long": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "very_long": {
+                "matching": 50,
+                "non_matching": 50
+            }
+        }
+    },
+    "kannada_5000": {
+        "sample_file": "kannada_5000_sample.csv",
+        "output_file": "kannada_5000_patterns.csv",
+        "language": "kannada",
+        "sample_size": 5000,
+        "pattern_seed": 107042,
+        "patterns_generated": 400,
+        "patterns_per_type_requested": 50,
+        "category_summary": {
+            "short": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "medium": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "long": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "very_long": {
+                "matching": 50,
+                "non_matching": 50
+            }
+        }
+    },
+    "tulu_1000": {
+        "sample_file": "tulu_1000_sample.csv",
+        "output_file": "tulu_1000_patterns.csv",
+        "language": "tulu",
+        "sample_size": 1000,
+        "pattern_seed": 102042,
+        "patterns_generated": 400,
+        "patterns_per_type_requested": 50,
+        "category_summary": {
+            "short": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "medium": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "long": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "very_long": {
+                "matching": 50,
+                "non_matching": 50
+            }
+        }
+    },
+    "tulu_4536": {
+        "sample_file": "tulu_4536_sample.csv",
+        "output_file": "tulu_4536_patterns.csv",
+        "language": "tulu",
+        "sample_size": 4536,
+        "pattern_seed": 105578,
+        "patterns_generated": 400,
+        "patterns_per_type_requested": 50,
+        "category_summary": {
+            "short": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "medium": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "long": {
+                "matching": 50,
+                "non_matching": 50
+            },
+            "very_long": {
+                "matching": 50,
+                "non_matching": 50
+            }
+        }
+    }
+}
