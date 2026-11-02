@@ -1,0 +1,12 @@
+{
+    "algorithm": "Naive String Matching",
+    "input_file": "kannada_25000_patterns.csv",
+    "total_queries": 400,
+    "total_found": 200,
+    "total_not_found": 200,
+    "total_comparisons": 4383,
+    "average_execution_time_ns": 2340.66375,
+    "passed": 400,
+    "failed": 0,
+    "all_correct": true
+}

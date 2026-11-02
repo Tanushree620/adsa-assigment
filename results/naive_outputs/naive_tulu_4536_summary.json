@@ -1,0 +1,12 @@
+{
+    "algorithm": "Naive String Matching",
+    "input_file": "tulu_4536_patterns.csv",
+    "total_queries": 400,
+    "total_found": 200,
+    "total_not_found": 200,
+    "total_comparisons": 3519,
+    "average_execution_time_ns": 3266.13625,
+    "passed": 400,
+    "failed": 0,
+    "all_correct": true
+}
